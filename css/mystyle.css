@@ -47,7 +47,6 @@
 }
 .fontstyle{
 	margin: 0 auto;
-	width: 640px;
 	height: 80px;
 	line-height: 80px;
 	font-family: "微软雅黑";
@@ -63,7 +62,6 @@
 	border-width: thin;
 	border-bottom-style: solid ;
 	text-align: center;
-	width: 640px;
 	margin: 0 auto;
 	text-indent: 2em;
 	word-spacing: 2px;
